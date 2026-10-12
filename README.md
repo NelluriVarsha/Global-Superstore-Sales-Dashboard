@@ -34,7 +34,31 @@ The dashboard provides a visual summary of sales and profit performance to help 
 - Dashboard creation
 - Business insights
 
-## Author
-Nelluri Varsha
+## Key Analysis Results
 
-GitHub: https://github.com/NelluriVarsha
+- **Total Sales:** 12,642,501.91
+- **Total Profit:** 1,467,457.29
+- **Average Sales:** 246.49
+- **Median Sales:** 85.50
+- **Mode Sales:** 12.96
+- **Maximum Sale:** 22,638.48
+- **Minimum Sale:** 0.44
+- **Sales Range:** 22,638.04
+
+## Dashboard Visualizations
+
+The dashboard includes:
+- Total Sales by Market
+- Total Sales by Category
+- Total Profit by Category
+- Total Sales by Region
+- Yearly Sales Trends
+
+## Data Quality Checks
+
+- **Missing Postal Codes:** 41,296 blank cells identified in the Postal Code column.
+- **Duplicate Check:** Excel reported no duplicate rows in the selected data.
+
+*Note: Missing Postal Code values were documented, not replaced with guessed values.*
+
+
